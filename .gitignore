@@ -1,0 +1,17 @@
+# --- Python Basics ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual Environments ---
+env/
+venv/
+.venv/
+
+# --- PyInstaller (File exe nặng) ---
+build/
+dist/
+*.spec
+
+# --- VS Code ---
+.vscode/
